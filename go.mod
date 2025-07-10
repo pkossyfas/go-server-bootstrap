@@ -1,6 +1,6 @@
 module github.com/pkossyfas/go-server-bootstrap
 
-go 1.19
+go 1.23.10
 
 require (
 	github.com/jackc/pgx/v5 v5.1.1

@@ -1,5 +1,5 @@
 # Use golang 1.19 (check go.mod) as base image
-FROM golang:1.19 as builder
+FROM golang:1.23.10 AS builder
 
 LABEL maintainer='pkossyfas@outlook.com'
 
